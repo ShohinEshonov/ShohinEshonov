@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShohinEshonov
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React JS 
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning C and Compiler Design
 
 
 <!---
